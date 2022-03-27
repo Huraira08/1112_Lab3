@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "lab3-18bf8"
+  },
+  "targets": {
+    "lab3-18bf8": {
+      "hosting": {
+        "q2": [
+          "lab3q2-1112"
+        ]
+      }
+    }
+  }
+}
